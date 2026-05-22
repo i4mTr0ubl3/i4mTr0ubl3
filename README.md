@@ -1,15 +1,11 @@
-<img align="right" height="200" src="https://i.imgflip.com/asdemi.jpg"  />
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/asdemi.jpg"  />
+</div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=i4mTr0ubl3.i4mTr0ubl3&left_color=black&right_color=black&left_text=Creeps"  />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://x.com/T3r34c3" target="_blank">
+<div align="center">
+ <a href="https://x.com/T3r34c3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discord.gg/Z97AEYNwK4" target="_blank">
@@ -32,7 +28,29 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=i4mTr0ubl3.i4mTr0ubl3&left_color=black&right_color=black&left_text=Creeps"  />
+</div>
+
+###
+
+<h1 align="center">hello loosers < 3</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left"># [your name]<br><br>digital ghost in progress.<br><br>i build small systems, aesthetic tools, broken prototypes, and strange little experiments somewhere between code, design, AI, and the wired.<br><br>this github is my archive of things i create while trying to understand the system:  <br>web projects, automation scripts, local AI experiments, interfaces, visual ideas, and digital fragments that feel a little dark, a little cute, and slightly corrupted.<br><br>```txt<br>> connected<br>> observing<br>> dreaming in pixels<br>> compiling identity...<br>```<br><br>some things are finished.  <br>most things are not.  <br>everything is part of becoming.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
@@ -58,9 +76,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
-
-###
-
-<p align="left"># [your name]<br><br>digital ghost in progress.<br><br>i build small systems, aesthetic tools, broken prototypes, and strange little experiments somewhere between code, design, AI, and the wired.<br><br>this github is my archive of things i create while trying to understand the system:  <br>web projects, automation scripts, local AI experiments, interfaces, visual ideas, and digital fragments that feel a little dark, a little cute, and slightly corrupted.<br><br>```txt<br>> connected<br>> observing<br>> dreaming in pixels<br>> compiling identity...<br>```<br><br>some things are finished.  <br>most things are not.  <br>everything is part of becoming.</p>
-
-###
