@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left"># [I'm T]<br><br>digital ghost in progress.<br><br>i build small systems, aesthetic tools, broken prototypes, and strange little experiments somewhere between code, design, AI, and the wired.<br><br>this github is my archive of things i create while trying to understand the system:  <br>web projects, automation scripts, local AI experiments, interfaces, visual ideas, and digital fragments that feel a little dark, a little cute, and slightly corrupted.<br><br>```txt<br>> connected<br>> observing<br>> dreaming in pixels<br>> compiling identity...<br>```<br><br>some things are finished.  <br>most things are not.  <br>everything is part of becoming.</p>
+<p align="left"># I'm T<br><br>digital ghost in progress.<br><br>i build small systems, aesthetic tools, broken prototypes, and strange little experiments somewhere between code, design, AI, and the wired.<br><br>this github is my archive of things i create while trying to understand the system:  <br>web projects, automation scripts, local AI experiments, interfaces, visual ideas, and digital fragments that feel a little dark, a little cute, and slightly corrupted.<br><br>```txt<br>> connected<br>> observing<br>> dreaming in pixels<br>> compiling identity...<br>```<br><br>some things are finished.  <br>most things are not.  <br>everything is part of becoming.</p>
 
 ###
 
