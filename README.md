@@ -1,37 +1,31 @@
-<a href="https://imgflip.com/i/asdemi"><img src="https://i.imgflip.com/asdemi.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Tereace">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Tereace&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="right" height="200" src="https://i.imgflip.com/asdemi.jpg"  />
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=i4mTr0ubl3.i4mTr0ubl3&"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=i4mTr0ubl3.i4mTr0ubl3&left_color=black&right_color=black&left_text=Creeps"  />
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://x.com/T3r34c3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discord.gg/Z97AEYNwK4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@T3reace" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="40" alt="youtube logo"  />
   </a>
   <a href="https://open.spotify.com/user/etienne.le?si=19a2fd90d105413e" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=flat" height="40" alt="spotify logo"  />
   </a>
   <a href="https://www.instagram.com/tereace/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/t3r34c3" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
   </a>
 </div>
 
